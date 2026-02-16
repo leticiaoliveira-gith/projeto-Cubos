@@ -1,2 +1,2 @@
 # projeto Cubos
-projeto cubos academy
+projeto criado do curso Cubos
